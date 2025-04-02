@@ -2,6 +2,10 @@
   "name": "tutorial-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://siddeshwar.github.io/tutorial-app",
+  "author": "Siddeshwar",
+  "description": "A simple tutorial app to demonstrate the use of React Router and other features.",
+  "main": "index.js",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
